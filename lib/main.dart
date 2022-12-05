@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.pink,
       ),
-      home: const MyHomePage(title: '井征淼12021215134'),
+      home: const MyHomePage(title: 'jzm'),
     );
   }
 }
